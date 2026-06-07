@@ -1,0 +1,9 @@
+{
+  "author": "",
+  "audience": "",
+  "default_tone": "conversational",
+  "target_word_count": 800,
+  "avoid_topics": [],
+  "avoid_words": [],
+  "note": "Leave author and audience blank on first run. The skill will ask you to fill them in."
+}
